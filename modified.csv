@@ -1,0 +1,51 @@
+e_id,name,department,position,salary,date_joined,email,zeros,zeros + 1,salary_sq,double_sal
+EMP001,Gary Harper,Engineering,Frontend Developer,74889,2022-01-30,gary.harper@company.com,0,1,,149778
+EMP002,Lee Walsh,IT Support,System Administrator,115131,2022-01-02,lee.walsh@company.com,0,1,,230262
+EMP003,John Soto,Human Resources,HR Executive,107183,2019-07-08,john.soto@company.com,0,1,,214366
+EMP004,Jennifer Foley,Finance,Financial Analyst,116032,2024-11-21,jennifer.foley@company.com,0,1,,232064
+EMP005,Valerie Taylor,Marketing,Content Strategist,85420,2020-04-19,valerie.taylor@company.com,0,1,,170840
+EMP006,Alan Phillips,Marketing,Social Media Manager,116912,2024-11-27,alan.phillips@company.com,0,1,,233824
+EMP007,Ashley Henderson,Human Resources,HR Executive,85517,2023-01-05,ashley.henderson@company.com,0,1,,171034
+EMP008,Raymond Ellis,Finance,Financial Analyst,66548,2021-10-28,raymond.ellis@company.com,0,1,,133096
+EMP009,William Baker,Marketing,Content Strategist,85118,2024-05-03,william.baker@company.com,0,1,,170236
+EMP010,Justin James,Sales,Sales Associate,72928,2022-06-03,justin.james@company.com,0,1,,145856
+EMP011,Nicholas Edwards,Sales,Sales Associate,68327,2024-10-04,nicholas.edwards@company.com,0,1,,136654
+EMP012,Matthew Williams,IT Support,System Administrator,71895,2019-12-11,matthew.williams@company.com,0,1,,143790
+EMP013,Nathan Carpenter DDS,Engineering,DevOps Engineer,112869,2019-06-14,nathan.carpenter.dds@company.com,0,1,,225738
+EMP014,April Gonzalez,Engineering,Backend Developer,93758,2021-04-13,april.gonzalez@company.com,0,1,,187516
+EMP015,Cody Yoder,Sales,Sales Manager,106635,2023-01-10,cody.yoder@company.com,0,1,,213270
+EMP016,Jonathon Henry,Human Resources,HR Executive,117464,2022-07-13,jonathon.henry@company.com,0,1,,234928
+EMP017,Evelyn Bautista,Marketing,Content Strategist,77980,2022-09-17,evelyn.bautista@company.com,0,1,,155960
+EMP018,Matthew Pierce,Marketing,Content Strategist,106447,2024-11-30,matthew.pierce@company.com,0,1,,212894
+EMP019,Makayla Orozco,Sales,Sales Associate,88630,2022-09-13,makayla.orozco@company.com,0,1,,177260
+EMP020,Lindsay Diaz,IT Support,System Administrator,100983,2025-03-17,lindsay.diaz@company.com,0,1,,201966
+EMP021,Mr. Luis Williams,Engineering,Backend Developer,76696,2019-09-01,mr..luis.williams@company.com,0,1,,153392
+EMP022,Kevin Mclean,Marketing,Content Strategist,90045,2020-09-04,kevin.mclean@company.com,0,1,,180090
+EMP023,Tyler Wilson DDS,Finance,Accountant,58365,2023-06-07,tyler.wilson.dds@company.com,0,1,,116730
+EMP024,Shannon Smith,Finance,Financial Analyst,106443,2019-09-22,shannon.smith@company.com,0,1,,212886
+EMP025,Mark Gonzalez,Finance,Accountant,70423,2022-06-08,mark.gonzalez@company.com,0,1,,140846
+EMP026,Daniel Lewis,Marketing,Social Media Manager,100234,2022-01-25,daniel.lewis@company.com,0,1,,200468
+EMP027,Stephanie Rose,Marketing,SEO Specialist,72039,2024-09-18,stephanie.rose@company.com,0,1,,144078
+EMP028,Alyssa Rodriguez,Engineering,Frontend Developer,73745,2019-08-04,alyssa.rodriguez@company.com,0,1,,147490
+EMP029,Mrs. Teresa Lutz DVM,Sales,Account Executive,81028,2020-06-22,mrs..teresa.lutz.dvm@company.com,0,1,,162056
+EMP030,Cheryl Peterson,IT Support,System Administrator,82193,2021-03-02,cheryl.peterson@company.com,0,1,,164386
+EMP031,Laurie Murray,IT Support,IT Technician,55281,2023-07-12,laurie.murray@company.com,0,1,,110562
+EMP032,Sean Andrews,Finance,Financial Analyst,99933,2022-03-17,sean.andrews@company.com,0,1,,199866
+EMP033,Anthony Sampson,Finance,Financial Analyst,76170,2023-03-18,anthony.sampson@company.com,0,1,,152340
+EMP034,Michael Maldonado,Marketing,SEO Specialist,78888,2020-12-13,michael.maldonado@company.com,0,1,,157776
+EMP035,John Jones,IT Support,System Administrator,73699,2022-09-06,john.jones@company.com,0,1,,147398
+EMP036,Yesenia Klein,Marketing,Social Media Manager,77463,2021-01-02,yesenia.klein@company.com,0,1,,154926
+EMP037,Adam Martinez,Marketing,SEO Specialist,97693,2019-11-14,adam.martinez@company.com,0,1,,195386
+EMP038,Kendra Ward,Finance,Financial Analyst,73567,2019-08-21,kendra.ward@company.com,0,1,,147134
+EMP039,Dennis Harris,Sales,Sales Manager,66568,2024-05-08,dennis.harris@company.com,0,1,,133136
+EMP040,Jennifer Mendez,IT Support,IT Technician,92321,2021-10-05,jennifer.mendez@company.com,0,1,,184642
+EMP041,Austin Rose,Marketing,Social Media Manager,83986,2020-10-26,austin.rose@company.com,0,1,,167972
+EMP042,Grant Hunter,Human Resources,Recruiter,74028,2024-05-14,grant.hunter@company.com,0,1,,148056
+EMP043,Kayla Hinton,Marketing,SEO Specialist,113411,2020-11-16,kayla.hinton@company.com,0,1,,226822
+EMP044,Anna Cisneros,Engineering,DevOps Engineer,102598,2019-08-28,anna.cisneros@company.com,0,1,,205196
+EMP045,Angela Grant,Human Resources,Recruiter,87220,2020-02-01,angela.grant@company.com,0,1,,174440
+EMP046,Jennifer Baker,Sales,Account Executive,73902,2019-09-05,jennifer.baker@company.com,0,1,,147804
+EMP047,Sean Fuller,Sales,Sales Associate,58420,2024-01-31,sean.fuller@company.com,0,1,,116840
+EMP048,Stephanie Townsend,Human Resources,Recruiter,95307,2019-08-24,stephanie.townsend@company.com,0,1,,190614
+EMP049,Grant Parker,Sales,Account Executive,55554,2019-05-23,grant.parker@company.com,0,1,,111108
+EMP050,Susan Coleman,Marketing,Content Strategist,87292,2021-12-27,susan.coleman@company.com,0,1,,174584
