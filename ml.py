@@ -18,7 +18,7 @@ print(data.head())
 
 # In[3]:
 #
-#
+
 from sklearn.feature_extraction.text import CountVectorizer
 vectorizer = CountVectorizer(analyzer='char', ngram_range=(1, 2))
 X = vectorizer.fit_transform(data['symbol_sequence'])
